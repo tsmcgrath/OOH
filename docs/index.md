@@ -16,7 +16,7 @@ Where do we start? The Southern Poverty Law Center has databases and maps of hat
 
 ![Monroe and Florence Work Lynching Map](../images/WorkLynchingMap.png)
 
-We need leadership and voices from BIPOC community. It will not be suitable to have old white males in leadership positions. They can help by contributing. They can mentor. They cannot be the voice or the leadership. Their history is well represented. This project is to tell the history of the people who are not represented. Who did not, and do not, have their stories told.
+We need leadership and voices from the BIPOC community. It will not be suitable to have old white males in leadership positions. They can help by contributing. They can mentor. They cannot be the voice or the leadership. Their history is well represented. This project is to tell the history of the people who are not represented. Who did not, and do not, have their stories told.
 
 # Open Source
 This project will be open source. Open for anyone to contribute, to leverage, to use. If it takes off we will likely need some governance around content. Wikimedia is likely to have a good model to follow when and if this gets that far.
