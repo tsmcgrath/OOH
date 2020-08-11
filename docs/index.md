@@ -14,7 +14,7 @@ Where do we start? The Southern Poverty Law Center has databases and maps of hat
  <https://plaintalkhistory.com/monroeandflorencework/explore/map2/#8.5/47.6641/-122.0573>.
 We can start with this data once we have permission.
 
-![Monroe and Florence Work Lynching Map!](https://github.com/tsmcgrath/OOH/blob/master/images/WorkLynchingMap.png)
+![Monroe and Florence Work Lynching Map](https://github.com/tsmcgrath/OOH/blob/master/images/WorkLynchingMap.png)
 
 We need leadership and voices from BIPOC community. It will not be suitable to have old white males in leadership positions. They can help by contributing. They can mentor. They cannot be the voice or the leadership. Their history is well represented. This project is to tell the history of the people who are not represented. Who did not, and do not, have their stories told.
 
