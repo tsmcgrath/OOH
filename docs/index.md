@@ -11,7 +11,7 @@ I live in the Western U.S. If you drive Western highways you will come across so
 How do we do that? We could put up plaques, markers, etc... Maybe someday we will. But we have the ability to put up virtual markers more widely, much more rapidly, and maybe in a way that more people will learn about them. We can build a web services platform, databases, and API's that can serve up this information in 2D and also in mixed reality audio and visual markers. The text and audio can tell the human stories. The visual markers can be customized by artists to be powerful memorials.
 
 Where do we start? The Southern Poverty Law Center has databases and maps of hate crimes <https://www.splcenter.org/hate-map>, current and historic.  There is also a lynching database available at Monroe and Florence Work website <https://plaintalkhistory.com/monroeandflorencework/explore/map2/#8.5/47.6641/-122.0573>. We can start with this data once we have permission.
-![Monroe and Florence Work Lynching Map](./images/WorkLynchingMap.png)
+![Monroe and Florence Work Lynching Map!](./images/WorkLynchingMap.png)
 
 We need leadership and voices from BIPOC community. It will not be suitable to have old white males in leadership positions. They can help by contributing. They can mentor. They cannot be the voice or the leadership. Their history is well represented. This project is to tell the history of the people who are not represented. Who did not, and do not, have their stories told.
 
